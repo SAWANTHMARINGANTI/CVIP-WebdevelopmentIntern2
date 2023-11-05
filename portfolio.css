@@ -1,0 +1,23 @@
+
+h1, h2 , p, .opening,footer{
+    font-family: 'Bebas Neue', sans-serif;
+    letter-spacing: 2px;
+    text-align: center;
+
+}
+.BN{
+    font-family: 'Bebas Neue', sans-serif;
+    letter-spacing: 2px;
+
+}
+.BI{
+    background-color:bisque;
+}
+.round{
+    border-radius: 50%;
+    height:50px;
+    
+}
+.extra{
+    padding-left: 5rem;
+}
